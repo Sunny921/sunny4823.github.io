@@ -1,10 +1,8 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Let's Sunny
+author: sunny
+email: sunny4823@kakao.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Javascript, Vue, React, 기타 등등 개발하면서..
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -22,20 +20,20 @@ plainwhite:
   html_lang: "kr" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
 
   # generate social links in footer
-  social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
-    dribbble: jekyll
-    flickr:   jekyll
-    instagram: jekyll
-    pinterest: jekyll
-    youtube: jekyll
-    facebook: jekyll
-    soundcloud: jekyll
-    telegram: jekyll
-    gitlab: jekyll
+  # social_links:
+  #   twitter: thelehhman
+  #   github:  thelehhman
+  #   linkedIn: in/thelehhman
+  #   rss: rss
+  #   dribbble: jekyll
+  #   flickr:   jekyll
+  #   instagram: jekyll
+  #   pinterest: jekyll
+  #   youtube: jekyll
+  #   facebook: jekyll
+  #   soundcloud: jekyll
+  #   telegram: jekyll
+  #   gitlab: jekyll
 
     # Mastodon instances
     # mastodon:
