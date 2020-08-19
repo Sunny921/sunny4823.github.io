@@ -230,8 +230,8 @@ $sidebar-display: "sidebar-display";
 #avatar {
   >a {
     display: block;
-    width: 95%;
-    height: 120%;
+    width: 10rem;
+    height: 12.5rem;
     transform: translateZ(0); // fixed the zoom in Safari
     -webkit-transition: border-color 0.35s ease-in-out;
     -moz-transition: border-color 0.35s ease-in-out;
@@ -932,7 +932,7 @@ div.post-content .table-wrapper {
 
   #avatar>a {
     width: 10rem;
-    height: 10rem;
+    height: 12.5rem;
   }
 
   .site-subtitle {
