@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Sunny
-  tagline: Developer. Front-end 
+  tagline: Developer. Front-end
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -49,7 +49,8 @@ plainwhite:
 
 # Build settings
 theme: plainwhite
-
+layout: default
+comments: true
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
