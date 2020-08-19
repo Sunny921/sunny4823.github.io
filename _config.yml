@@ -10,7 +10,7 @@
 
 title: Let's Sunny                          # the main title
 
-tagline: Hi there.  # it will display as the sub-title
+tagline: Developer. Javascript, React, Vue  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Developer. Javascript, React, Vue
@@ -20,7 +20,7 @@ url: 'https://sunny921.github.io'
 
 author: Sunny                  # change to your full name
 
-avatar: /assets/img/me.png   # support internet resources
+avatar: /assets/img/me.jpg   # support internet resources
 
 github:
   username: sunny921             # change to your github username
@@ -76,7 +76,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: light
+theme_mode: dark
 
 # boolean type, global switch for ToC in posts.
 toc: true
