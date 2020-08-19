@@ -1293,6 +1293,11 @@ div.post-content .table-wrapper {
       max-width: 1110px;
     }
   }
+  #sidebar {
+    .site_title {
+        margin-top: -1.5rem
+    }
+  }
 
   #search-wrapper .fa-times-circle {
     right: 2.6rem;
@@ -1376,7 +1381,7 @@ div.post-content .table-wrapper {
   #sidebar {
     width: $sidebar-width-large;
     .site-title {
-      margin-top: -1.5rem;
+      margin-top: -1.5rem
     }
     .site-title a {
       font-size: 1.2rem;
@@ -1479,6 +1484,12 @@ div.post-content .table-wrapper {
 
   #panel-wrapper {
     margin-left: 3%;
+  }
+
+  #sidebar {
+    .site_title {
+        margin-top: 1.5rem
+    }
   }
 
   footer {
