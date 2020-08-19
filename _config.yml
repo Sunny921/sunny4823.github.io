@@ -2,16 +2,18 @@ title: Let's Sunny
 author: sunny
 email: sunny4823@kakao.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Javascript, Vue, React, 기타 등등 개발하면서..
+  Javascript, Vue, React 개발
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+post:
+  categories: test
 sass:
   sass_dir: _sass
 plainwhite:
   name: Sunny
-  tagline: Developer. Front-end
+  tagline: Developer.
   disqus_shortname: sunny921-github-io
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
