@@ -49,8 +49,7 @@ plainwhite:
 
 # Build settings
 theme: plainwhite
-layout: default
-comments: true
+
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
