@@ -83,6 +83,7 @@ $sidebar-display: "sidebar-display";
   }
 
   .site-title {
+    margin-top: 1.5rem;
     text-align: center;
     a {
       // color: var(--site-title-color);
@@ -1357,8 +1358,8 @@ div.post-content .table-wrapper {
       -ms-flex-pack: normal !important;
       justify-content: normal !important;
       >a {
-        width: 6.2rem;
-        height: 6.2rem;
+        width: 11rem;
+        height: 11rem;
       }
     }
 
@@ -1385,6 +1386,7 @@ div.post-content .table-wrapper {
     width: $sidebar-width-large;
 
     .site-title a {
+      margin-top: 1.5rem;
       font-size: 1.7rem;
       letter-spacing: 1px;
       margin: 0;
