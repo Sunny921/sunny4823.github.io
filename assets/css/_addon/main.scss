@@ -1211,6 +1211,12 @@ div.post-content .table-wrapper {
     padding: 0;
   }
 
+  #sidebar {
+    .site-title {
+      margin-top: -1.5rem
+    }
+  }
+
   #main>div.row {
     -webkit-box-pack: center!important;
     -ms-flex-pack: center!important;
@@ -1234,6 +1240,12 @@ div.post-content .table-wrapper {
   #topbar {
     padding: 0;
     max-width: 1070px;
+  }
+
+  #sidebar {
+    .site-title {
+      margin-top: -1.5rem
+    }
   }
 
   #panel-wrapper {
@@ -1309,6 +1321,11 @@ div.post-content .table-wrapper {
   #topbar {
     padding-right: 2rem;
   }
+  #sidebar {
+    .site-title {
+      margin-top: -1.5rem
+    }
+  }
 }
 
 @media all and (min-width: 1650px) {
@@ -1381,7 +1398,7 @@ div.post-content .table-wrapper {
   #sidebar {
     width: $sidebar-width-large;
     .site-title {
-      margin-top: -1.5rem
+      margin-top: 1.5rem
     }
     .site-title a {
       font-size: 1.2rem;
