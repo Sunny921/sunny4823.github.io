@@ -1375,7 +1375,9 @@ div.post-content .table-wrapper {
 
   #sidebar {
     width: $sidebar-width-large;
-
+    .site-title {
+      margin-top: -1.5rem;
+    }
     .site-title a {
       font-size: 1.2rem;
       letter-spacing: 1px;
