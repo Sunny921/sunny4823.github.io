@@ -1,10 +1,9 @@
 ---
-layout: post
-title:  "Javascript 원시 타입 vs 참조 타입 (Primitive vs Reference)"
-date:   2020-08-20 10:00:00
+title: Javascript 원시 타입 vs 참조 타입 (Primitive vs Reference)
+author: Sunny
+date: 2020-08-20 10:00:00
 categories: [Javascript]
 tags: [Javascript's 33 concepts, Primitive Type]
-comments: true
 ---
 
 Javascript에서 제공하는 타입에는 `원시 타입 (Primitive type)`과 `참조 타입 (Reference type)`이 존재한다.<br/>
