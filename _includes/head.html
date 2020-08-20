@@ -9,7 +9,11 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+  <meta property="og:title" content="{{ post.title | title }}">
+  <meta property="og:description" content="{{description}}">
+  <meta property="og:site_name" content="{{title}}">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="/assets/img/lets_sunny_logo.png">
   <title>
   {%- unless page.layout == "home" -%}
     {{ page.title | append: " | "}}
