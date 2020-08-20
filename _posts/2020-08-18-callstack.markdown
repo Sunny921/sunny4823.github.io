@@ -3,7 +3,7 @@ title: Javascript 호출 스택 (call stack)
 author: Sunny
 date:   2020-08-18 10:00:00
 categories: [Javascript]
-tags: [Javascript's 33 concepts]
+tags: [Javascript 33 concepts]
 ---
 Javascript 는 단일 쓰레드 (Single-Thread) 프로그래밍 언어로 단일 호출 스택(call stack)을 가진다.<br/>
 단일 스택을 가지고 있다는 것은 한번에 하나의 task 만 처리할 수 있다는 의미이다.<br/>
