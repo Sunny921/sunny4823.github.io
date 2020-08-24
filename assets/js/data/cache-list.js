@@ -28,8 +28,9 @@ const include = [
   '{{ "/assets/js/post.min.js" | relative_url }}',
 
   /*--- HTML ---*/
+/*
 
-  /* Tabs */
+  /!* Tabs *!/
   {% for tab in site.data.tabs %}
     {% capture item %}
       {%- unless tab.name == 'Home' -%}
@@ -40,7 +41,7 @@ const include = [
     '{{ item | relative_url }}',
   {% endfor %}
 
-  /* The posts of first Home page and recent update list */
+  /!* The posts of first Home page and recent update list *!/
   {% assign post_list = "" | split: "" %}
 
   {% for post in site.posts limit: site.paginate %}
@@ -61,12 +62,13 @@ const include = [
     '{{ url }}',
   {% endfor %}
 
-  /* Trending tags */
+  /!* Trending tags *!/
   {% include trending-tags.html %}
   {% for tag in trending_tags %}
     {% capture tag_url %}/tags/{{ tag | downcase | url_encode }}/{% endcapture %}
     '{{ tag_url | relative_url }}',
   {% endfor %}
+*/
 
   /*--- Icons ---*/
 
