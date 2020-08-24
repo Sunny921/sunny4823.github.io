@@ -1,4 +1,0 @@
-I"�<p>Vue.js는 화면 표출 조건을 설정할 수있는 <code class="language-plaintext highlighter-rouge">v-</code> 접두사 directive 를 지원한다.
-조건부 렌더링 directive 는 <code class="language-plaintext highlighter-rouge">v-if</code>와 <code class="language-plaintext highlighter-rouge">v-show</code>로 둘은 모두 Boolean type true || false 로 렌더링 여부를
-판단한다.</p>
-:ET

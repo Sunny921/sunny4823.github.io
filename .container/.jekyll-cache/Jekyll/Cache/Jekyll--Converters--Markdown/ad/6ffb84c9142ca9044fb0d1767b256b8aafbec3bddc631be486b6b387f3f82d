@@ -1,3 +1,0 @@
-I"�<p>Javascript에서 제공하는 타입에는 <code class="language-plaintext highlighter-rouge">원시 타입 (Primitive type)</code>과 <code class="language-plaintext highlighter-rouge">참조 타입 (Reference type)</code>이 존재한다.<br />
-원시 타입의 변수는 값 자체를 보관 한다. 값 자체는 변할 수 없는 <strong>불변의 성질</strong>을 가진다.</p>
-:ET

@@ -1,5 +1,0 @@
-I"�<p>Javascript 는 단일 쓰레드 (Single-Thread) 프로그래밍 언어로 단일 호출 스택(call stack)을 가진다.<br />
-단일 스택을 가지고 있다는 것은 한번에 하나의 task 만 처리할 수 있다는 의미이다.<br />
-콜 스택은 함수를 호출 하기 위한 정보를 담는 구조이다.<br />
-스택이라는 이름에서도 알수 있듯이 콜 스택은 <strong>후입선출(LIFO, Last In First Out)</strong> 으로 동작한다.<br /></p>
-:ET
