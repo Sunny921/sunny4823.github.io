@@ -1,0 +1,35 @@
+I"ú
+<div id="tags" class="d-flex flex-wrap ml-xl-2 mr-xl-2">
+
+
+
+
+
+
+  <div>
+    <a class="tag" href="/tags/browser-render/">browser render<span class="text-muted">1</span></a>
+  </div>
+
+  <div>
+    <a class="tag" href="/tags/directive/">directive<span class="text-muted">2</span></a>
+  </div>
+
+  <div>
+    <a class="tag" href="/tags/event-loop/">event loop<span class="text-muted">1</span></a>
+  </div>
+
+  <div>
+    <a class="tag" href="/tags/javascript-33-concepts/">Javascript 33 concepts<span class="text-muted">3</span></a>
+  </div>
+
+  <div>
+    <a class="tag" href="/tags/primitive-type/">Primitive Type<span class="text-muted">1</span></a>
+  </div>
+
+  <div>
+    <a class="tag" href="/tags/vue.js/">vue.js<span class="text-muted">2</span></a>
+  </div>
+
+
+</div>
+:ET
