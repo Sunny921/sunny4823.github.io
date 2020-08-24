@@ -30,7 +30,7 @@ const include = [
   /*--- HTML ---*/
 
   /* Tabs */
-  {% for tab in site.data.tabs %}
+ /* {% for tab in site.data.tabs %}
     {% capture item %}
       {%- unless tab.name == 'Home' -%}
         /tabs/{{ tab.name | downcase }}
@@ -38,7 +38,7 @@ const include = [
       {{- "/" -}}
     {% endcapture %}
     '{{ item | relative_url }}',
-  {% endfor %}
+  {% endfor %}*/
 
   /* The posts of first Home page and recent update list */
   {% assign post_list = "" | split: "" %}
