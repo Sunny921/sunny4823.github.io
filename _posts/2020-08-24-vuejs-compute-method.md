@@ -64,11 +64,11 @@ Methods 속성은 우리가 일반적으로 함수를 정의할때 사용하는�
 Methods는 종속된 값이란 개념없이 렌더링이 일어날 때마다 계속 호출될 것이다. <br/>
 아래의 예제를 보자.. <br/>
 
-```vue
+```vuejs
 <body>
     <div id="app">
-      {{ fetchBanana() }}
-      {{ fetchApple() }}
+      <p>{{ fetchBanana() }}</p>
+      <p>{{ fetchApple() }}</p>
     </div>
 </body>
 <script type="text/javascript">
