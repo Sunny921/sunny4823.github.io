@@ -1,12 +1,12 @@
 ---
 title: (Vue.js) Computed vs Methods 속성은 어떤 차이점을 가지고 있을까?
 author: Sunny
-date:   2020-08-27 10:00:00
+date:   2020-08-27 20:00:00
 categories: [Vue.js]
 tags: [vue.js]
 ---
 
-Vue 에서 함수를 구현하기 위한 속성으로 computed 와 methods 를 제공 한다.
+Vue 에서 함수를 구현하기 위한 속성으로 computed 와 methods 를 제공 한다. <br/>
 그렇다면 어떤경우에 comptuted 를 사용해야하고 methods 를 사용해야할까? 둘의 차이점은 뭘까?
 
 |속성|설명|
