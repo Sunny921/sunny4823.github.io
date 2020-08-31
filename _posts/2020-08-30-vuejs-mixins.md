@@ -3,7 +3,7 @@ title: (Vue.js) 믹스인 (Mixins) 를 활용한 재사용 가능한 기능을 �
 author: Sunny
 date:   2020-08-30 08:00:00
 categories: [Vue.js]
-tags: [vue.js, minxins]
+tags: [vue.js, mixins]
 ---
 
 Vue 에서 믹스인 (mixins) 이란 `재사용`이 필요한 요소들을 모아 놓은 객체를 의미 합니다. <br/>
@@ -43,7 +43,7 @@ export const myMixin = {
 </script>
 ```
 
-myMixin 객체 에서 created 훅과 data 요소가 정의 되어 있고, MyComponent 에서 이 minxin 을 가져다 쓰고 있습니다. <br />
+myMixin 객체 에서 created 훅과 data 요소가 정의 되어 있고, MyComponent 에서 이 mixin 을 가져다 쓰고 있습니다. <br />
 아래 콘솔 로그를 보겠습니다. <br/>
 
 ![콘솔로그](/assets/post/0831-mixins-console.png)
@@ -65,7 +65,7 @@ export const myMixin = {
     },
     methods: {
         sayHello: function() {
-            console.log('I am minxin hello')
+            console.log('I am mixin hello')
         }
     }
 }
