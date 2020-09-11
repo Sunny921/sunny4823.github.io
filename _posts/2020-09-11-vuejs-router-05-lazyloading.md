@@ -1,7 +1,7 @@
 ---
 title: (Vue.js) 라우터 - 지연된 로딩 (Component Lazy Loading) 
 author: Sunny
-date: 2020-09-09 10:00:00 +0800
+date: 2020-09-11 10:00:00 +0800
 categories: [Vue.js]
 tags: [vue.js, vue-router, nextTick]
 ---
