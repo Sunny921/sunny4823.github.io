@@ -3,7 +3,7 @@ title: (Vue.js) Vuex 상태관리자 시작하기 (1) - Vuex 컨셉, getters, ma
 author: Sunny
 date: 2020-09-14 10:00:00 +0800
 categories: [Vue.js]
-tags: [vue.js, Vuex]
+tags: [vue.js, vuex]
 ---
 
 Vuex 는 상태를 저장하는 중앙 저장소 입니다. <br/>

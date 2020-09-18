@@ -3,7 +3,7 @@ title: (Vue.js) Vuex 상태관리자 시작하기 (2) - mutations, mapMutations 
 author: Sunny
 date: 2020-09-18 10:00:00 +0800
 categories: [Vue.js]
-tags: [vue.js, Vuex]
+tags: [vue.js, vuex]
 ---
 
 Vuex 의 헬퍼 Mutation 에 대해 알아보겠습니다 ☺️ <br/>
