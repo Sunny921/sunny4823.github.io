@@ -38,7 +38,7 @@ self.addEventListener('fetch', (e) => {
             /* console.log('[Service Worker] Fetching resource: ' + e.request.url); */
             return r || fetch(e.request).then((response) => {
                 return caches.open(cacheName).then((cache) => {
-                    if (!isExcluded(e.request.url)) {
+                    if (!isExcluded(e.request.url) && !(e.request.url.indexOf('http') === 0)) {
                         /* console.log('[Service Worker] Caching new resource: ' + e.request.url); */
                         cache.put(e.request, response.clone());
                     }
