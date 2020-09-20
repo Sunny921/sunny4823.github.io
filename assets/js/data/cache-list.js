@@ -95,7 +95,7 @@ const include = [
 
     /*--- Others ---*/
 
-    '{{ "/assets/js/data/search.json" | relative_url }}',
+    // '{{ "/assets/js/data/search.json" | relative_url }}',
     '{{ "/404.html" | relative_url }}',
 
     '{{ "/app.js" | relative_url }}',
