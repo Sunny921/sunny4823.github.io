@@ -1,1 +1,1 @@
-/* Registering Service Worker */ if('serviceWorker' in navigator) { navigator.serviceWorker.unregister(); };
+/* Registering Service Worker */ if('serviceWorker' in navigator) { navigator.serviceWorker.register('/sw.js'); };
